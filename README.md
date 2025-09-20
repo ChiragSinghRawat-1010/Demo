@@ -1,4 +1,4 @@
 # Demo
 it is my first project in git hub
 <br>
-Author- Chirag Singh Rawat
+Author- Chirag (Chirag-10)
